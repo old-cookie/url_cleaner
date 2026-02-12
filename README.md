@@ -24,7 +24,7 @@ Add this package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  url_cleaner: ^0.0.2
+  url_cleaner: ^0.0.3y
 ```
 
 Then run:

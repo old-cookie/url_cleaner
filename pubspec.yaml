@@ -1,6 +1,6 @@
 name: url_cleaner
 description: "A Flutter package that removes specified keywords and everything after them from URLs. Supports case-insensitive matching and configurable keyword lists."
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/old-cookie/url_cleaner/
 
 environment:
