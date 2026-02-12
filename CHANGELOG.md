@@ -1,6 +1,10 @@
+## 0.0.3
+
+* Fixed example documentation.
+
 ## 0.0.2
 
-* Added comprehensive example documentation.
+* Added example documentation.
 * Minor documentation improvements.
 
 ## 0.0.1
