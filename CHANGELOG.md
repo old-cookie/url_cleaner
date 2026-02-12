@@ -1,3 +1,8 @@
+## 0.0.2
+
+* Added comprehensive example documentation.
+* Minor documentation improvements.
+
 ## 0.0.1
 
 * Initial release.
@@ -5,4 +10,4 @@
 * Case-insensitive keyword matching.
 * Runtime keyword configuration (add, remove, update).
 * URL validation and graceful error handling.
-* Trailing slash normalization for all output URLs.
+* Trailing slash normalization for all output URLs. 
